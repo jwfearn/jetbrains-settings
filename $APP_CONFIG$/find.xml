@@ -18,9 +18,9 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.rb</mask>
       <mask>*.sh</mask>
       <mask>$USER_HOME$/github/apptentive/web/vendor/bundle/ruby/2.1.0/bundler/gems/**</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
