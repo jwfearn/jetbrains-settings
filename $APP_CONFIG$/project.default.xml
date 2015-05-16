@@ -45,11 +45,6 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="project.structure.last.edited" value="Project" />
-        <property name="project.structure.proportion" value="0.15" />
-        <property name="project.structure.side.proportion" value="0.37241378" />
-        <property name="settings.editor.selected.configurable" value="Markdown" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -59,10 +54,10 @@
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
-          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
@@ -137,49 +132,6 @@
           <listeners />
           <method />
         </configuration>
-      </component>
-      <component name="VagrantProjectSettings">
-        <option name="instanceFolder" value="" />
-        <option name="provider" value="" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="GlobalLibrariesConfigurable.UI">
-            <settings>
-              <last-edited>bigdecimal (v1.2.4, xrbenv: 2.1.6) [gem]</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.37241378" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="JdkListConfigurable.UI">
-            <settings>
-              <last-edited>rbenv: 2.1.2</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.37241378" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ProjectLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
