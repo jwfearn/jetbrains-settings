@@ -4,7 +4,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="FILE_MASK" value="*report*.rb, *survey*.rb" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,9 +19,9 @@
       <mask>Gemfile*</mask>
       <mask>*.js</mask>
       <mask>*_spec.rb</mask>
-      <mask>*.rb</mask>
       <mask>report*.rb</mask>
       <mask>*report*.rb, *survey*.rb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
