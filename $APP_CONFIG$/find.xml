@@ -8,7 +8,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,10 +22,10 @@
       <mask>$USER_HOME$/github/apptentive/web/vendor/bundle/ruby/2.1.0/bundler/gems/**</mask>
       <mask>Gemfile*</mask>
       <mask>*.js</mask>
-      <mask>*_spec.rb</mask>
       <mask>report*.rb</mask>
       <mask>*report*.rb, *survey*.rb</mask>
       <mask>*.rb</mask>
+      <mask>*_spec.rb</mask>
     </recentFileMasks>
   </component>
 </application>
