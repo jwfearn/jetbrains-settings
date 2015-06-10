@@ -3,12 +3,10 @@
     <option name="caseSensitive" value="true" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="FILE_MASK" value="*_spec.rb" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,8 +22,8 @@
       <mask>*.js</mask>
       <mask>report*.rb</mask>
       <mask>*report*.rb, *survey*.rb</mask>
-      <mask>*.rb</mask>
       <mask>*_spec.rb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
