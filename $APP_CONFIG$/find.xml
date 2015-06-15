@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,10 +18,10 @@
       <mask>*.js</mask>
       <mask>report*.rb</mask>
       <mask>*report*.rb, *survey*.rb</mask>
-      <mask>*_spec.rb</mask>
       <mask>models/**/*.rb</mask>
       <mask>*.coffee</mask>
       <mask>*.rb</mask>
+      <mask>*_spec.rb</mask>
     </recentFileMasks>
   </component>
 </application>
