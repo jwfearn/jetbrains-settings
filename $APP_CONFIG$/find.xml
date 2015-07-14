@@ -1,6 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*_spec.rb" />
+    <option name="caseSensitive" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,8 +24,8 @@
       <mask>*.coffee</mask>
       <mask>*.rb, *.rake</mask>
       <mask>*_controller.rb</mask>
-      <mask>*.rb</mask>
       <mask>*_spec.rb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
