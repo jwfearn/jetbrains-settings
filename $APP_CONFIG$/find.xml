@@ -27,8 +27,8 @@
       <mask>*.coffee</mask>
       <mask>*.rb, *.rake</mask>
       <mask>*_controller.rb</mask>
-      <mask>*_spec.rb</mask>
       <mask>*.rb</mask>
+      <mask>*_spec.rb</mask>
     </recentFileMasks>
   </component>
 </application>
