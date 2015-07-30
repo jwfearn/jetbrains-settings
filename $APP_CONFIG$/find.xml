@@ -6,6 +6,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,9 +25,9 @@
       <mask>models/**/*.rb</mask>
       <mask>*.coffee</mask>
       <mask>*.rb, *.rake</mask>
-      <mask>*_spec.rb</mask>
       <mask>*_controller.rb</mask>
       <mask>*.rb</mask>
+      <mask>*_spec.rb</mask>
     </recentFileMasks>
   </component>
 </application>
