@@ -4,9 +4,9 @@
     <extensionMap>
       <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping pattern="hound" type="Ruby" />
       <mapping ext="rabl" type="Ruby" />
       <mapping pattern="Dockerfile" type="Docker file" />
+      <mapping pattern="hound" type="Ruby" />
     </extensionMap>
   </component>
 </application>
