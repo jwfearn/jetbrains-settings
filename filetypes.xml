@@ -1,12 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="rabl" type="Ruby" />
       <mapping pattern="Dockerfile" type="Docker file" />
+      <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
+      <mapping pattern="playset" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="hound" type="Ruby" />
+      <mapping ext="rabl" type="Ruby" />
     </extensionMap>
   </component>
 </application>
