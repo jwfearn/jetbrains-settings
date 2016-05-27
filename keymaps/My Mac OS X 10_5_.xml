@@ -1,0 +1,5 @@
+<keymap version="1" name="My Mac OS X 10.5+" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
+</keymap>
